@@ -1,13 +1,19 @@
-WebFabricant Limited - Company Profile Generator
+WebFabricant Limited - Company Profile Deck (2025)
 
-8-Page Professional PowerPoint Presentation
+Direct download:
+- `WebFabricant-Company-Profile-2025.pptx`
 
-Pages:
-1. Front Cover & Executive Summary
-2. Core Capabilities & Technology Stack
-3. Delivery Bridge & Governance
-4. Team Expertise, Case Studies & Corporate Info
-5. Certifications & Accreditations
-6. Market Positioning
-7. Service Level Agreement
-8. Call to Action & Contact
+Theme:
+- Primary: Deep Blue `#1E3A8A`
+- Accent: Golden `#D4AF37`
+- Background: White/Light Blue `#F8FAFC`
+
+Slides:
+1. Front Cover
+2. Core Capabilities
+3. Technology Stack
+4. Delivery Bridge
+5. Data Sovereignty
+6. Case Studies
+7. Team & Contact Info
+8. Call to Action
