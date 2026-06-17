@@ -1,13 +1,15 @@
-WebFabricant Limited - Company Profile Generator
+WebFabricant Limited - Company Profile
 
-8-Page Professional PowerPoint Presentation
+Direct download PowerPoint file:
 
-Pages:
-1. Front Cover & Executive Summary
-2. Core Capabilities & Technology Stack
-3. Delivery Bridge & Governance
-4. Team Expertise, Case Studies & Corporate Info
-5. Certifications & Accreditations
-6. Market Positioning
-7. Service Level Agreement
-8. Call to Action & Contact
+- `WebFabricant-Company-Profile-2025.pptx`
+
+Slides included:
+1. Front Cover - WebFabricant Limited, 2025, Custom Software Engineering
+2. Core Capabilities - Full-Stack Web Apps, Workflow Automation
+3. Technology Stack - React, Laravel, n8n, Make.com
+4. Delivery Bridge - UK Director, Offshore Team, QA Process
+5. Data Sovereignty - AWS London, UK/EU Infrastructure
+6. Case Studies - 2-3 Projects
+7. Team & Contact Info
+8. Call to Action
