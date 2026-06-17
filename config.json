@@ -1,0 +1,83 @@
+{
+  "company": {
+    "name": "WebFabricant Limited",
+    "year": "2025",
+    "subtitle": "Custom Software Engineering & Workflow Automation",
+    "hybrid_advantage": "UK-led security governance with globally efficient engineering delivery for faster, safer digital transformation.",
+    "address": "London, United Kingdom",
+    "companies_house": "Company No. 00000000",
+    "ico_registration": "ICO Ref: ZB000000",
+    "email": "hello@webfabricant.com",
+    "phone": "+44 (0)20 0000 0000",
+    "website": "www.webfabricant.com"
+  },
+  "capabilities": [
+    "Custom Full-Stack Web Applications",
+    "Workflow Automation & Systems Integration",
+    "Cloud-native API and data platform engineering"
+  ],
+  "tech_stack": [
+    "React",
+    "Inertia.js",
+    "Tailwind CSS",
+    "Laravel",
+    "n8n",
+    "Make.com"
+  ],
+  "delivery_bridge": [
+    "Discovery & Strategy (UK Director)",
+    "Sprinting & Development (Offshore Team)",
+    "QA & Oversight (UK Director)"
+  ],
+  "data_sovereignty": [
+    "UK/EU-hosted infrastructure",
+    "AWS London region deployment options",
+    "Encrypted communication channels and secure access controls"
+  ],
+  "case_studies": [
+    {
+      "title": "Public Service Case Management",
+      "outcome": "Reduced manual processing time by 45% via custom portal and automation workflows."
+    },
+    {
+      "title": "Manufacturing Operations Dashboard",
+      "outcome": "Unified ERP, CRM, and reporting to deliver real-time operational visibility."
+    },
+    {
+      "title": "Professional Services Intake Automation",
+      "outcome": "Automated lead-to-project handoff and improved response times by 60%."
+    }
+  ],
+  "personnel": [
+    {
+      "name": "UK Director",
+      "bio": "Leads strategy, governance, and stakeholder alignment for secure delivery."
+    },
+    {
+      "name": "Technical Lead",
+      "bio": "Owns architecture quality, scalability, and integration standards across projects."
+    },
+    {
+      "name": "Automation Specialist",
+      "bio": "Designs workflow automations and low-code orchestration for operational efficiency."
+    }
+  ],
+  "certifications": [
+    "Cyber Essentials Ready",
+    "UK GDPR-aligned practices",
+    "Secure SDLC standards",
+    "ISO 27001-aligned controls"
+  ],
+  "market_positioning": [
+    "Hybrid delivery model balancing compliance and velocity",
+    "Deep workflow automation capability with measurable outcomes",
+    "Senior-led governance with practical engineering execution"
+  ],
+  "sla": {
+    "uptime": "99.9% service availability target",
+    "response": "Critical incidents acknowledged within 1 hour",
+    "resolution": "Defined escalation and recovery runbooks",
+    "reporting": "Monthly service reviews with KPI transparency"
+  },
+  "cta": "Partner with WebFabricant Limited to modernize systems, automate operations, and deliver secure digital services."
+}
